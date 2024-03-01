@@ -1,2 +1,4 @@
 # ml-cert
-machine learning certification projects and practice
+https://www.coursera.org/professional-certificates/ibm-machine-learning
+
+six courses for IBM Machine Learning Professional Certificate
